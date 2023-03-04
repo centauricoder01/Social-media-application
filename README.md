@@ -4,13 +4,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-agrawal6/Hospital-Management-System.git
+  git clone https://github.com/centauricoder01/Social-media-application.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Hospital-Management-System
+  cd Social-media-application
 ```
 
 Install dependencies
