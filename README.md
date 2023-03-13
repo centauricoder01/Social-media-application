@@ -66,15 +66,11 @@ Server - https://busy-jade-sawfish-cape.cyclic.app
 4.Profile Page
 ![two](https://user-images.githubusercontent.com/103047446/224754562-5fd82f48-fad8-4033-a6e5-e38ff5347574.png)
 
-5.
+5.Edit Account Info
 ![five](https://user-images.githubusercontent.com/103047446/224754481-edbe5a1c-15b5-4989-9cbe-a115843f2335.png)
 
-6.
+6.Change Password
 ![six](https://user-images.githubusercontent.com/103047446/224754471-6983df16-f5b5-4bd6-878c-1405bb639c34.png)
-
-
-
-![four](https://user-images.githubusercontent.com/103047446/224754591-e475dd63-5a94-4030-9d24-f0d7034221c9.png)
 
 ## follow for more projects.
 
