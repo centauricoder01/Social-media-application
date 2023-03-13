@@ -54,22 +54,16 @@ Server - https://busy-jade-sawfish-cape.cyclic.app
 
 
 ## Screenshots
+![seven](https://user-images.githubusercontent.com/103047446/224754445-7e011b7d-2167-4da9-aba3-25083a029600.png)
+![eight](https://user-images.githubusercontent.com/103047446/224754458-d4eecc81-a38d-4afa-9561-5b32e6a9eeac.png)
+![six](https://user-images.githubusercontent.com/103047446/224754471-6983df16-f5b5-4bd6-878c-1405bb639c34.png)
+![five](https://user-images.githubusercontent.com/103047446/224754481-edbe5a1c-15b5-4989-9cbe-a115843f2335.png)
+![one](https://user-images.githubusercontent.com/103047446/224754534-5d072719-5ea0-4e09-9bff-aae264aa7536.png)
 
-1. Home page
+![two](https://user-images.githubusercontent.c![three](https://user-images.githubusercontent.com/103047446/224754562-5fd82f48-fad8-4033-a6e5-e38ff5347574.png)
+om/103047446/224754547-f42ec6d9-c93a-4d3b-9bf2-10aab17dfe16.png)
 
-![24 01 2023_17 26 21_REC](https://user-images.githubusercontent.com/100460788/214285675-6ce465cf-64e6-491f-961a-ee6ac3b776c0.png)
-
-2. Profile page
-
-![24 01 2023_17 26 51_REC](https://user-images.githubusercontent.com/100460788/214285664-e3aa11eb-b577-4337-ba2c-2f870ca5b0a8.png)
-
-3. login page
-
-![24 01 2023_17 27 53_REC](https://user-images.githubusercontent.com/100460788/214285944-c8a06b5e-55f3-4b57-a6ea-9200ac5ba25f.png)
-
-## Blog / Presentation
-
-Presentation - https://drive.google.com/file/d/1qEAkelnlGGlWfVS7Gaa9-vaGtNlImhDg/view?usp=share_link
+![four](https://user-images.githubusercontent.com/103047446/224754591-e475dd63-5a94-4030-9d24-f0d7034221c9.png)
 
 ## follow for more projects.
 
